@@ -8,6 +8,7 @@
 int main()
 {
 
+
    char string[20];
    int final=0;
    int i;
